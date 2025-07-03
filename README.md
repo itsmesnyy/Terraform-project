@@ -34,14 +34,6 @@ This project provisions a **secure, scalable, and production-ready AWS infrastru
 | ActiveMQ    | Messaging queue broker                    |
 | Elastic Beanstalk | Application orchestration           |
 
----
-
-## 📁 Directory Structure
-
-![Directory Structure](b98de18c-85ff-4eae-b696-efdbf3685ea4.png)
-> Each module is logically separated for better readability and maintainability.
-
----
 
 ## ⚙️ Getting Started
 
