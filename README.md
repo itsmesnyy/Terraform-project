@@ -38,29 +38,7 @@ This project provisions a **secure, scalable, and production-ready AWS infrastru
 
 ## 📁 Directory Structure
 
-terraform-aws-infra/
-├── main.tf
-├── variables.tf
-├── outputs.tf
-├── terraform.tfvars
-├── bastion/
-│   └── bastion-host.tf
-├── vpc/
-│   └── vpc.tf
-├── compute/
-│   └── ec2.tf
-├── database/
-│   └── rds.tf
-├── cache/
-│   └── elasticache.tf
-├── messaging/
-│   └── activemq.tf
-├── app/
-│   └── elastic_beanstalk.tf
-├── security/
-│   └── security-groups.tf
-└── README.md
-
+![Directory Structure](b98de18c-85ff-4eae-b696-efdbf3685ea4.png)
 > Each module is logically separated for better readability and maintainability.
 
 ---
