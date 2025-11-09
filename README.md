@@ -47,8 +47,6 @@ This project provisions a **secure, scalable, and production-ready AWS infrastru
 ### 🔧 Setup Steps
 
 1. Clone the Repository
-   git clone https://github.com/your-username/terraform-aws-infra.git
-   cd terraform-aws-infra
 
 2. Initialize Terraform
    terraform init
